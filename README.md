@@ -74,6 +74,22 @@ With five clusters, the silhouette score was approximately **0.010**. I also tes
 
 This showed that there is a lot of overlap between products in the TF-IDF feature space. In other words, products from different categories often use similar words in their descriptions.
 
+## Results
+
+### Classification Performance
+
+The Multinomial Naive Bayes model achieved 94.3% accuracy.
+
+![Confusion Matrix](images/confusion_matrix.png)
+
+### KMeans Clustering
+
+![KMeans Clusters](images/kmeans_clusters.png)
+
+### Silhouette Analysis
+
+![Silhouette Scores](images/silhouette_scores.png)
+
 ## Product Search
 
 The final part of the project was a simple text-based product search system.
