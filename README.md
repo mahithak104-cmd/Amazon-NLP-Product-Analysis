@@ -78,7 +78,7 @@ This showed that there is a lot of overlap between products in the TF-IDF featur
 
 The Multinomial Naive Bayes model achieved **94.3% accuracy**.
 
-![Confusion Matrix](Multinomial%20Naive%20Bayes.jpg)
+![Confusion Matrix](./confusion-matrix.jpg)
 
 ## KMeans Clustering
 
