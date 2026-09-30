@@ -1,4 +1,4 @@
-# Amazon-MLP-Product-Analysis
+# Amazon-NLP-Product-Analysis
 This project uses Natural Language Processing and machine learning to analyze Amazon product data. The main goal was to see how product titles, features, and descriptions can be used to automatically categorize products, find patterns between products, and build a simple product search system.
 
 ## What I Worked With
